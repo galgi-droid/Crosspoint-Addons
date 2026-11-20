@@ -173,7 +173,7 @@ jobs:
           Included:
           ${included}
 
-          - crosspoint-${FULL}-x4pro.bin: Xteink X4 Pro (tested)
+          - crosspoint-${FULL}-x4pro.bin: Xteink X4 Pro - Cyrillic build, NOT TESTED on a device yet
           - crosspoint-${FULL}-x3-x4.bin: Xteink X3 and X4 (one file for both) - NOT TESTED on a device.
             No touch screen there: everything runs over the buttons, which makes the add-ons harder to use.
 
