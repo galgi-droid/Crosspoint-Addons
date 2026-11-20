@@ -2,4 +2,4 @@
 # One per line: GitHub repository, then the patch script inside it.
 # Each add-on repository builds and tests on its own; this list only combines them.
 Menrix/Crosspoint-Dogear      patch/apply_dogear.py
-Menrix/Crosspoint-ToDoList    patch/apply_todolist.py
+galgi-droid/Crosspoint-ToDoList    patch/apply_todolist.py
